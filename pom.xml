@@ -3,4 +3,8 @@
   <groupId>Java8Feature</groupId>
   <artifactId>Java8Feature</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
 </project>
